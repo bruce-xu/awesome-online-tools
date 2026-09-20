@@ -165,6 +165,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [PDF to Image](https://www.wtoolskit.com/en/pdf-to-image/) — Pdf to image, pdf to png, pdf to jpg.
 - [ZIP Manager](https://www.wtoolskit.com/en/zip-manager/) — Zip file, unzip, extract zip.
 - [File Encryptor](https://www.wtoolskit.com/en/file-encryptor/) — File encryption, file decrypt, aes encryption.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser-only freelance invoice, quote, receipt, and client paperwork generators (print to PDF, no signup).
 
 ### CSS & Design
 
