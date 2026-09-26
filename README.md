@@ -132,6 +132,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Image Resize](https://www.wtoolskit.com/en/image-resize/) — Image resizer, resize image online, scale image.
 - [Image Watermark](https://www.wtoolskit.com/en/image-watermark/) — Image watermark, add watermark, text watermark.
 - [Image Format Converter](https://www.wtoolskit.com/en/image-format/) — Image format converter, png to jpg, webp converter.
+- [HEIC to PNG Converter](https://fileontap.com/heic-to-png/) — Convert HEIC images to PNG in the browser; files are never uploaded to a server.
 - [Image Collage](https://www.wtoolskit.com/en/image-collage/) — Image collage, photo collage maker, combine images.
 - [SVG Editor](https://www.wtoolskit.com/en/svg-editor/) — Svg editor, svg viewer, svg optimizer.
 - [EXIF Reader](https://www.wtoolskit.com/en/exif-reader/) — Exif reader, exif data, photo metadata.
