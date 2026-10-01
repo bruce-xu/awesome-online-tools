@@ -123,6 +123,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 
 ### Image Tools
 
+- [MetWipe EXIF Remover](https://metwipe.com/remove-exif.html) — Inspect and remove supported EXIF metadata from photos locally in the browser.
 - [Image ⇄ Base64](https://www.wtoolskit.com/en/image-base64/) — Image to base64, base64 to image, image encoder.
 - [Favicon Generator](https://www.wtoolskit.com/en/favicon-generator/) — Favicon generator, favicon maker, favicon creator.
 - [Code Screenshot](https://www.wtoolskit.com/en/code-screenshot/) — Code screenshot, code to image, code snippet image.
