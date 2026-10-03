@@ -82,6 +82,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [HTML Preview](https://www.wtoolskit.com/en/html-preview/) — Html preview, html editor, live html.
 - [SQL Formatter](https://www.wtoolskit.com/en/sql-formatter/) — Sql formatter, sql beautifier, sql prettifier.
 - [CSV Viewer](https://www.wtoolskit.com/en/csv-viewer/) — Csv viewer, csv reader, csv file viewer.
+- [DataToolForge CSV Import Preflight](https://datatoolforge.com/tools/csv-import-preflight) — Check CSV files for import risks such as uneven rows, formula-like values, long numeric IDs, leading zeros, mixed types, and ambiguous dates. Runs locally in the browser without signup.
 - [SQLite Viewer](https://www.wtoolskit.com/en/sqlite-viewer/) — Sqlite viewer, sqlite reader, db viewer.
 - [HTML Table Generator](https://www.wtoolskit.com/en/html-table-generator/) — Html table generator, table maker, table creator.
 - [Meta Tag Generator](https://www.wtoolskit.com/en/meta-tag-generator/) — Meta tag generator, seo meta tags, og tags.
