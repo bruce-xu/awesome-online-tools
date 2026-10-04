@@ -200,6 +200,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 
 ### Everyday & Life
 
+- [Tanzhang Market Surplus Calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en) — Estimate a market event’s surplus after goods, inventory losses, fees and expenses, with amounts displayed in CNY.
 - [Calculator](https://www.wtoolskit.com/en/calculator/) — Calculator, math calculator, scientific calculator.
 - [Mortgage](https://www.wtoolskit.com/en/mortgage/) — Mortgage calculator, loan calculator, home loan.
 - [Tax](https://www.wtoolskit.com/en/tax/) — Tax calculator, income tax, salary calculator.
