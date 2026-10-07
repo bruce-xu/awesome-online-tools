@@ -201,6 +201,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 ### Everyday & Life
 
 - [Calculator](https://www.wtoolskit.com/en/calculator/) — Calculator, math calculator, scientific calculator.
+- [FollowersAcheter.be Engagement Rate (French)](https://followersacheter.be/tools/engagement-rate) — Calculate likes plus comments as a percentage of followers, reach or views locally, without an account.
 - [Mortgage](https://www.wtoolskit.com/en/mortgage/) — Mortgage calculator, loan calculator, home loan.
 - [Tax](https://www.wtoolskit.com/en/tax/) — Tax calculator, income tax, salary calculator.
 - [Amount](https://www.wtoolskit.com/en/amount/) — Number formatter, currency converter, amount formatter.
