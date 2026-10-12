@@ -149,6 +149,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Video Screenshot](https://www.wtoolskit.com/en/video-screenshot/) — Video screenshot, capture video frame, video to image.
 - [Video Extract Audio](https://www.wtoolskit.com/en/video-extract-audio/) — Extract audio from video, video to audio, mp4 to mp3.
 - [Audio Trimmer](https://www.wtoolskit.com/en/audio-trimmer/) — Audio trimmer, audio cutter, cut audio.
+- [QuietTake Noise Remover](https://noiseremover.site/) — External browser utility for RNNoise speech noise reduction, original/cleaned playback and 48 kHz 16-bit WAV export; no signup or audio upload, with a 50 MB and five-minute limit per file.
 - [Screen Recorder](https://www.wtoolskit.com/en/screen-recorder/) — Screen recorder, screen capture, record screen.
 - [Camera Recorder](https://www.wtoolskit.com/en/camera-recorder/) — Camera recorder, webcam capture, take photo.
 - [Microphone Recorder](https://www.wtoolskit.com/en/microphone-recorder/) — Microphone recorder, audio recorder, record audio.
