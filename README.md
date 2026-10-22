@@ -290,7 +290,8 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Match-3 Gems](https://game.wtoolskit.com/en/match-3) — Swap adjacent gems to match 3 or more. Chain combos for massive scores!
 - [Rubik's Cube](https://game.wtoolskit.com/en/rubiks-cube) — Classic 3D Rubik's Cube. Scramble and solve by rotating faces. Track your moves and beat your best!
 - [Suika Game](https://game.wtoolskit.com/en/suika) — Drop and merge fruits! Same fruits combine into bigger ones. Can you make the watermelon?
-- [Blocky Blast Puzzle](https://game.wtoolskit.com/en/blocky-blast-puzzle) — Place colorful blocks on a 10×10 grid and clear lines to score! Plan ahead — when you can't place any blocks, it's game 
+- [Blocky Blast Puzzle](https://game.wtoolskit.com/en/blocky-blast-puzzle) — Place colorful blocks on a 10×10 grid and clear lines to score! Plan ahead — when you can't place any blocks, it's game
+- [BestieQuiz](https://bestiequiz.com/) — Free online friendship quiz maker to create personalized quizzes, share them with friends, and compare scores on a leaderboard.
 
 ### Skill
 
