@@ -103,6 +103,8 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Flexbox Generator](https://www.wtoolskit.com/en/flexbox-generator/) — Flexbox generator, flex layout, css flexbox.
 - [Icon Font Generator](https://www.wtoolskit.com/en/icon-font-generator/) — Icon font generator, icon css, icon font css.
 - [Social Share Link](https://www.wtoolskit.com/en/social-share/) — Social share link generator, share button, facebook share.
+- [Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset) — Compare manually confirmed Codex usage with the weekly time window, with a countdown and calendar export.
+
 
 ### Text & Writing
 
