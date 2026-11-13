@@ -120,6 +120,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Emoji Picker](https://www.wtoolskit.com/en/emoji-picker/) — Emoji picker, emoji search, emoji copy.
 - [Word Frequency](https://www.wtoolskit.com/en/word-frequency/) — Word frequency, word count, text analysis.
 - [ASCII Art](https://www.wtoolskit.com/en/ascii-art/) — Ascii art generator, image to ascii, text art.
+- [Free Word Counter](https://free-word-counter.web-free.site/) — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
 
 ### Image Tools
 
