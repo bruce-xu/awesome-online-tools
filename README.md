@@ -120,6 +120,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Emoji Picker](https://www.wtoolskit.com/en/emoji-picker/) — Emoji picker, emoji search, emoji copy.
 - [Word Frequency](https://www.wtoolskit.com/en/word-frequency/) — Word frequency, word count, text analysis.
 - [ASCII Art](https://www.wtoolskit.com/en/ascii-art/) — Ascii art generator, image to ascii, text art.
+- [Free Word Counter](https://free-word-counter.web-free.site/) — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
 
 ### Image Tools
 
@@ -363,15 +364,6 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [WebRTC Diagnostics](https://rtc.wtoolskit.com/webrtc-diagnostics)
 
 ---
-
-## Other client-side tools
-
-- [Free Word Counter](https://free-word-counter.web-free.site/) — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
-- [Free QR Code Creator](https://free-qr-code-creator.web-free.site/) — Creates styled QR codes and barcodes and can scan codes in the browser with no sign-up.
-- [Free PDF Converter](https://free-pdf-converter.web-free.site/) — Browser-based PDF toolkit (merge, split, compress, convert and related tools); processing runs locally in the browser.
-- [Free Online Calculator](https://free-online-calculator.web-free.site/en/) — Collection of everyday online calculators with instant results, no sign-up, and offline use after the page loads.
-- [Free Image Resizer](https://free-image-resizer.web-free.site/en/) — Resize, compress, crop, rotate and convert images (HEIC, WebP, PNG, JPG) in the browser without uploading files.
-
 
 ## Contributing
 
