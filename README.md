@@ -211,6 +211,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Age](https://www.wtoolskit.com/en/age/) — Age calculator, birthday calculator, date of birth.
 - [Pomodoro Timer](https://www.wtoolskit.com/en/pomodoro-timer/) — Pomodoro timer, focus timer, productivity timer.
 - [Random Decision](https://www.wtoolskit.com/en/random/) — Random decision, random generator, dice roll.
+- [My Daily](https://bestdaily.games/my-daily/) — Organize a daily browser puzzle checklist that saves your selections locally without an account.
 
 ### Security & Crypto
 
