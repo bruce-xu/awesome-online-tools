@@ -211,6 +211,7 @@ All products share the same philosophy: **100% client-side, no account, no uploa
 - [Age](https://www.wtoolskit.com/en/age/) — Age calculator, birthday calculator, date of birth.
 - [Pomodoro Timer](https://www.wtoolskit.com/en/pomodoro-timer/) — Pomodoro timer, focus timer, productivity timer.
 - [Random Decision](https://www.wtoolskit.com/en/random/) — Random decision, random generator, dice roll.
+- [StagePeek](https://stagepeek.live/) — Preview 2D seating charts and 3D concert arena sightlines across 201 global venues with no signup required.
 
 ### Security & Crypto
 
